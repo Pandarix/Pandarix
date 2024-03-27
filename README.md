@@ -3,7 +3,7 @@
 
 - 🔭 Working on [Minecraft Mods](https://curseforge.com/members/pandarix/projects)
 
-- 🌱 Currently learning **Frontend (Svelte) & Machine Learning (Python)**
+- 🌱 Currently learning **Frontend (Svelte & Tailwind)**
 
 - 📘 Studying at the [University of Bremen](https://www.uni-bremen.de/en/)
 
