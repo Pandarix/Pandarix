@@ -3,9 +3,9 @@
 
 - 🔭 Working on [Minecraft Mods](https://curseforge.com/members/pandarix/projects)
 
-- 🌍 Currently abroad for an Erasmus+ Semester in Tallinn, Estonia studying Game Design
+- 🌍 Currently abroad for an Erasmus+ Semester in Tallinn, Estonia
 
-- 📘 Studying at the [University of Bremen](https://www.uni-bremen.de/en/)
+- 📘 Studying Digital Media at the [University of Bremen](https://www.uni-bremen.de/en/)
   - Temporarily studing at the [Tallinna Ülikool](https://www.tlu.ee/)   
 
 # 💻 Tech Stack:
